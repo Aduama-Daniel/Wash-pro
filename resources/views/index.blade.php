@@ -50,7 +50,7 @@
             </div>
             <div class="col-lg-6 px-5 text-end">
                 <small><i class="fa fa-envelope text-primary me-2"></i>info@example.com</small>
-                <small class="ms-4"><i class="fa fa-phone-alt text-primary me-2"></i>+233 547 505 111</small>
+                <small class="ms-4"><i class="fa fa-phone-alt text-primary me-2"></i>+233 55 949 1318</small>
             </div>
         </div>
 
@@ -67,20 +67,23 @@
                     <a href="#home" class="nav-item nav-link active">Home</a>
                     <a href="#about" class="nav-item nav-link">About</a>
                     <a href="#service" class="nav-item nav-link">Services</a>
-                    <a href="#package" class="nav-item nav-link">Pricing</a>
+                    <a href="#package" class="nav-item nav-link">Packages</a>
                     
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    <a href="#" class="nav-item nav-link">Contact</a>
                 </div>
                 <div class="d-none d-lg-flex ms-2">
-                    <a class="btn btn-light btn-sm-square rounded-circle ms-3" href="">
-                        <small class="fab fa-facebook-f text-primary"></small>
+                    <a class="btn btn-light btn-sm-square rounded-circle ms-3" href="https://www.instagram.com/washpro360?igsh=YzVkODRmOTdmMw==">
+                        <small class="fab fa-instagram text-primary"></small>
                     </a>
-                    <a class="btn btn-light btn-sm-square rounded-circle ms-3" href="">
+                    <a class="btn btn-light btn-sm-square rounded-circle ms-3" href="https://x.com/washpro360?s=21&t=0awGUMtff_NaD8pWQtdbqw">
                         <small class="fab fa-twitter text-primary"></small>
                     </a>
-                    <a class="btn btn-light btn-sm-square rounded-circle ms-3" href="">
-                        <small class="fab fa-linkedin-in text-primary"></small>
+                    <a class="btn btn-light btn-sm-square rounded-circle ms-3" href="https://t.snapchat.com/DuPvjPbI">
+                        <small class="fab fa-snapchat text-primary"></small>
+                        
                     </a>
+
+                    
                 </div>
             </div>
         </nav>
@@ -100,7 +103,7 @@
                                 <div class="col-lg-8">
                                     
                                     <h1 class="display-1 mb-4 animated slideInDown">Your 360 cleaning service</h1>
-                                    <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Request free pickup</a>
+                                    <a href="http://wa.me/+233559491318" class="btn btn-primary py-3 px-5 animated slideInDown">Talk to Us <i class="fab fa-whatsapp"></i></a></a>
                                 </div>
                             </div>
                         </div>
@@ -113,8 +116,8 @@
                             <div class="row justify-content-start">
                                 <div class="col-lg-7">
                                    
-                                    <h1 class="display-1 mb-4 animated slideInDown">We are currently available in and around Accra</h1>
-                                    <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">Request free pickup</a>
+                                    <h1 class="display-1 mb-4 animated slideInDown">Let us do the cleaning while you relax</h1>
+                                    <a href="http://wa.me/+233559491318" class="btn btn-primary py-3 px-5 animated slideInDown">Talk to Us <i class="fab fa-whatsapp"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -144,23 +147,28 @@
                     <img class="img-fluid rounded" src="img/about1.jpg">
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <p class="d-inline-block border rounded text-primary fw-semi-bold py-1 px-3">About Us</p>
-                    <h1 class="display-5 mb-4">We offer Laundry and cleaning service</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                   
+                    <h1 class="display-5 mb-4">About Us</h1>
+                    <p class="mb-4">
+
+At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solutions tailored to meet your needs. Our mission is simple: to provide comprehensive cleaning services that leave your laundry and spaces immaculate. With a commitment to detail and customer satisfaction, we aim to redefine cleanliness, ensuring every nook and corner sparkles. Trust us to bring a 360-degree approach to cleanliness, offering thorough, efficient, and reliable service you can count on</p>
                    
                 </div>
             </div>
+            <p class="d-inline-block border rounded text-primary fw-semi-bold py-1 px-3">How it Works</p>
             <div class="border rounded p-4 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="row g-4">
                     <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
                         <div class="h-100">
+
                             <div class="d-flex">
                                 <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
-                                    <i class="fa fa-times text-white"></i>
+                                <i class="fa fa-phone text-white"></i>
                                 </div>
+                                
                                 <div class="ps-3">
-                                    <h4>No Hidden Cost</h4>
-                                    <span>Clita erat ipsum lorem sit sed stet duo justo</span>
+                                    <h4>Place Your Order</h4>
+                                    
                                 </div>
                                 <div class="border-end d-none d-lg-block"></div>
                             </div>
@@ -171,11 +179,26 @@
                         <div class="h-100">
                             <div class="d-flex">
                                 <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
-                                    <i class="fa fa-users text-white"></i>
+                                    <i class="fa fa-car text-white"></i>
                                 </div>
                                 <div class="ps-3">
-                                    <h4>Dedicated Team</h4>
-                                    <span>Clita erat ipsum lorem sit sed stet duo justo</span>
+                                    <h4>We pickup</h4>
+                                    
+                                </div>
+                                <div class="border-end d-none d-lg-block"></div>
+                            </div>
+                            <div class="border-bottom mt-4 d-block d-lg-none"></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
+                        <div class="h-100">
+                            <div class="d-flex">
+                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
+                                    <i class="fa fa-tshirt text-white"></i>
+                                </div>
+                                <div class="ps-3">
+                                    <h4>We wash, iron, fold</h4>
+                                    
                                 </div>
                                 <div class="border-end d-none d-lg-block"></div>
                             </div>
@@ -186,11 +209,11 @@
                         <div class="h-100">
                             <div class="d-flex">
                                 <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
-                                    <i class="fa fa-phone text-white"></i>
+                                    <i class="fa fa-truck text-white"></i>
                                 </div>
                                 <div class="ps-3">
-                                    <h4>24/7 Available</h4>
-                                    <span>Clita erat ipsum lorem sit sed stet duo justo</span>
+                                    <h4>We Deliver</h4>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -219,17 +242,26 @@
                 <div class="col-lg-4">
                     <div class="nav nav-pills d-flex justify-content-between w-100 h-100 me-4">
                         <button class="nav-link w-100 d-flex align-items-center text-start border p-4 mb-4 active" data-bs-toggle="pill" data-bs-target="#tab-pane-1" type="button">
-                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Laundry Services</h5>
+                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Laundry </h5>
                         </button>
                         <button class="nav-link w-100 d-flex align-items-center text-start border p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-2" type="button">
-                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Dry Cleaning</h5>
+                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Sneaker Cleaning </h5>
                         </button>
                         <button class="nav-link w-100 d-flex align-items-center text-start border p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-3" type="button">
-                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Home cleaning</h5>
+                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Dry Cleaning</h5>
                         </button>
-                        <button class="nav-link w-100 d-flex align-items-center text-start border p-4 mb-0" data-bs-toggle="pill" data-bs-target="#tab-pane-4" type="button">
-                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Ironing</h5>
+                        
+                        <button class="nav-link w-100 d-flex align-items-center text-start border p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-4" type="button">
+                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Office cleaning</h5>
                         </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start border p-4 mb-0" data-bs-toggle="pill" data-bs-target="#tab-pane-5" type="button">
+                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Carpet/upholstery cleaning</h5>
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start border p-4 mb-0" data-bs-toggle="pill" data-bs-target="#tab-pane-6" type="button">
+                            <h5 class="m-0"><i class="fa fa-bars text-primary me-3"></i>Post construction cleaning</h5>
+                        </button>
+                        
+                        
                     </div>
                 </div>
                 <div class="col-lg-8">
@@ -238,17 +270,15 @@
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
-                                        <img class="position-absolute rounded w-100 h-100" src="img/laundry.jpg"
+                                        <img class="position-absolute rounded w-100 h-100" src="img/laundry3.jpg"
                                             style="object-fit: cover;" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <h3 class="mb-4">Our Laundry Services</h3>
-                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet.</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Secured Loans</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Credit Facilities</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Cash Advanced</p>
-                                    <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                    <h3 class="mb-4">Wash, Dry, Fold, Iron</h3>
+                                    <p class="mb-4">Relax while we take care of your laundry needs. Our service includes convenient pickup of your dirty laundry, thorough washing, drying, expert folding, and precise ironing. Your freshly cleaned and neatly packaged clothes will be delivered back to you hassle-free, ensuring a seamless and enjoyable laundry experience</p>
+                                   
+                                    <a href="http://wa.me/+233559491318" class="btn btn-primary py-3 px-5 mt-3">Book Us <i class="fab fa-whatsapp"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -261,30 +291,58 @@
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <h3 class="mb-4">Our Dry Cleaning Services</h3>
-                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet.</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Secured Loans</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Credit Facilities</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Cash Advanced</p>
-                                    <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                    <h3 class="mb-4">Our Sneaker Cleaning Services</h3>
+                                    <p class="mb-4">We specialize in reviving your sneakers with our premium Sneaker Cleaning Services. From thorough cleaning to meticulous detailing, trust us to bring back the freshness and style to your favorite pairs, ensuring they look as good as new</p>
+                                    
+                                    <a href="http://wa.me/+233559491318" class="btn btn-primary py-3 px-5 mt-3">Book Us <i class="fab fa-whatsapp"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="tab-pane fade" id="tab-pane-3">
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
-                                    <div class="position-relative h-100">
-                                        <img class="position-absolute rounded w-100 h-100" src="img/cleaning.jpg"
+                                    <div class="position-relative h-100"> 
+                                        <img class="position-absolute rounded w-100 h-100" src="img/dry cleaning.jpg"
                                             style="object-fit: cover;" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <h3 class="mb-4">Our Home Cleaning Services</h3>
-                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet.</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Secured Loans</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Credit Facilities</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Cash Advanced</p>
-                                    <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                    <h3 class="mb-4">Our Dry Cleaning Services</h3>
+                                    <p class="mb-4">Discover the excellence of our Dry Cleaning Services. We specialize in meticulous fabric care, ensuring your garments receive the utmost attention and care. From delicate fabrics to everyday wear, trust us to deliver a fresh and professionally cleaned wardrobe tailored to your lifestyle</p>
+                                    
+                                    <a href="http://wa.me/+233559491318" class="btn btn-primary py-3 px-5 mt-3">Book Us <i class="fab fa-whatsapp"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="tab-pane-5">
+                            <div class="row g-4">
+                                <div class="col-md-6" style="min-height: 350px;">
+                                    <div class="position-relative h-100">
+                                        <img class="position-absolute rounded w-100 h-100" src="img/carpet.jpg"
+                                            style="object-fit: cover;" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="mb-4">Carpet/Upholstery cleaning</h3>
+                                    <p class="mb-4">Transform your living spaces with our expert Carpet and Upholstery Cleaning services. Our team excels in deep cleaning, ensuring a rejuvenated and refreshed look for your carpets and upholstery. Say goodbye to stains and dirt, and welcome a cleaner, cozier home or office environment.</p>
+                                    
+                                    <a href="http://wa.me/+233559491318" class="btn btn-primary py-3 px-5 mt-3">Book Us <i class="fab fa-whatsapp"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="tab-pane-6">
+                            <div class="row g-4">
+                                <div class="col-md-6" style="min-height: 350px;">
+                                    <div class="position-relative h-100">
+                                        <img class="position-absolute rounded w-100 h-100" src="img/post constructions.jpg"
+                                            style="object-fit: cover;" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="mb-4">Post construction cleaning</h3>
+                                    <p class="mb-4">Experience a spotless finish to your construction project with our Post-Construction Cleaning services. Our team is dedicated to removing debris, dust, and any remnants of construction, leaving your space ready to shine. Enjoy the unveiling of your newly constructed area with a thorough and professional clean-up.</p>
+                                    
+                                    <a href="http://wa.me/+233559491318" class="btn btn-primary py-3 px-5 mt-3">Book Us <i class="fab fa-whatsapp"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -292,20 +350,19 @@
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
-                                        <img class="position-absolute rounded w-100 h-100" src="img/ironing.jpg"
+                                        <img class="position-absolute rounded w-100 h-100" src="img/office.jpg"
                                             style="object-fit: cover;" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <h3 class="mb-4">Our Ironing Services</h3>
-                                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet.</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Secured Loans</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Credit Facilities</p>
-                                    <p><i class="fa fa-check text-primary me-3"></i>Cash Advanced</p>
-                                    <a href="" class="btn btn-primary py-3 px-5 mt-3">Read More</a>
+                                    <h3 class="mb-4">Our Office Cleaning Services</h3>
+                                    <p class="mb-4">Experience top-notch Office Cleaning Services tailored to elevate your workspace. Our dedicated team meticulously handles dusting, sanitizing, and waste disposal to ensure a pristine and organized office environment. Enjoy a clean, refreshing workspace that promotes productivity and leaves a lasting positive impression</p>
+                                   
+                                    <a href="http://wa.me/+233559491318" class="btn btn-primary py-3 px-5 mt-3">Book Us <i class="fab fa-whatsapp"></i></a>
                                 </div>
                             </div>
                         </div>
+                       
                     </div>
                 </div>
             </div>
@@ -433,22 +490,24 @@
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
-                    <h4 class="text-white mb-4">Our Office</h4>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                    <h4 class="text-white mb-4">Socials</h4>
+                   
                     <div class="d-flex pt-2">
-                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-youtube"></i></a>
-                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href=""><i class="fab fa-linkedin-in"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href="https://x.com/washpro360?s=21&t=0awGUMtff_NaD8pWQtdbqw"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href="https://www.instagram.com/washpro360?igsh=YzVkODRmOTdmMw=="><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href="https://t.snapchat.com/DuPvjPbI"><i class="fab fa-snapchat"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-2" href="http://wa.me/+233559491318"><i class="fab fa-whatsapp"></i></a>
                     </div>
+                    <br>
+                    <h5 class="text-white mb-4">@washpro360</h5>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Services</h4>
-                    <a class="btn btn-link" href="">Laundry</a>
-                    <a class="btn btn-link" href="">Dry Cleaning</a>
-                    <a class="btn btn-link" href="">Home Cleaning</a>
+                    <a class="btn btn-link" href="#service">Laundry</a>
+                    <a class="btn btn-link" href="#service">Dry Cleaning</a>
+                    <a class="btn btn-link" href="#service">Office Cleaning</a>
+                    <a class="btn btn-link" href="#service">Sneaker Cleaning</a>
+                    <a class="btn btn-link" href="#service">Post Construction Cleaning</a>
                     
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -459,13 +518,14 @@
                     <a class="btn btn-link" href="">Terms & Condition</a>
                     <a class="btn btn-link" href="">Support</a>
                 </div>
+
                 <div class="col-lg-3 col-md-6">
-                    <h4 class="text-white mb-4">Newsletter</h4>
-                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
-                    <div class="position-relative w-100">
-                        <input class="form-control bg-white border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
-                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
-                    </div>
+                    <h4 class="text-white mb-4">Phone</h4>
+                    <a class="btn btn-link" href="#">+233 204 238 723</a>
+                    <a class="btn btn-link" href="#">+233 55 949 1318</a>
+                    
+                </div>
+               
                 </div>
             </div>
         </div>
