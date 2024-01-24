@@ -15,7 +15,6 @@
     // Initiate the wowjs
     new WOW().init();
 
-
     // Fixed Navbar
     $(window).scroll(function () {
         if ($(window).width() < 992) {
@@ -32,6 +31,7 @@
             }
         }
     });
+
     
     
     // Back to top button
@@ -110,6 +110,27 @@
         }
     });
 
-    
-})(jQuery);
+    //Alter color changes
+    $(".rounded-circle").removeClass(".bg-primary");
+    $("me-3").removeClass(".text-primary");
+} 
+)(jQuery);
 
+/*
+document.addEventListener("DOMContentLoaded", function() {
+    // Get all navigation items
+    const navItems = document.querySelectorAll('.nav-item');
+
+    // Add click event listener to each navigation item
+    navItems.forEach(function(item) {
+        item.addEventListener('click', function() {
+            // Remove 'active' class from all items
+            navItems.forEach(function(navItem) {
+                navItem.classList.remove('active');
+            });
+
+            // Add 'active' class to the clicked item
+            item.classList.add('active');
+        });
+    });
+});*/

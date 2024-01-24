@@ -15,6 +15,10 @@
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;500&display=swap" rel="stylesheet">  
 
     <!-- Icon Font Stylesheet -->
@@ -31,6 +35,9 @@
 <!-- Template Stylesheet -->
 <link href="{{ asset('css/style.css') }}" rel="stylesheet">
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -42,7 +49,7 @@
 
 
     <!-- Navbar Start -->
-    <div class="container-fluid fixed-top px-0 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container-fluid fixed-top px-0 wow fadeIn color-change" data-wow-delay="0.1s" id="navToggle">
         <div class="top-bar row gx-0 align-items-center d-none d-lg-flex">
             <div class="col-lg-6 px-5 text-start">
                 <small><i class="fa fa-map-marker-alt text-primary me-2"></i>Accra, Ghana</small>
@@ -54,7 +61,7 @@
             </div>
         </div>
 
-        <nav class="navbar navbar-expand-lg navbar-light py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
+        <nav class="navbar navbar-expand-lg navbar-light py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s" >
             <a href="#home" class="navbar-brand ms-4 ms-lg-0">
                 <img src="{{ asset('/img/logo1.png')}}" alt="" class="img-fluid" width = "80">
                 
@@ -65,11 +72,11 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto p-4 p-lg-0">
                     <a href="#home" class="nav-item nav-link active">Home</a>
-                    <a href="#about" class="nav-item nav-link">About</a>
+                    <a href="#about" class="nav-item nav-link" >About</a>
                     <a href="#service" class="nav-item nav-link">Services</a>
                     <a href="#package" class="nav-item nav-link">Packages</a>
                     
-                    <a href="#" class="nav-item nav-link">Contact</a>
+                    <a href="#home" class="nav-item nav-link">Contact</a>
                 </div>
                 <div class="d-none d-lg-flex ms-2">
                     <a class="btn btn-light btn-sm-square rounded-circle ms-3" href="https://www.instagram.com/washpro360?igsh=YzVkODRmOTdmMw==">
@@ -140,7 +147,7 @@
 
 
     <!-- About Start -->
-    <div class="container-xxl py-5" id = "about">
+    <div class="container-xxl py-5 about-section" id = "about">
         <div class="container">
             <div class="row g-4 align-items-end mb-4">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -159,7 +166,7 @@ At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solution
             <div class="border rounded p-4 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="row g-4">
                     <div class="col-lg-4 wow fadeIn" data-wow-delay="0.1s">
-                        <div class="h-100">
+                        <div class="h-100" id="works-box">
 
                             <div class="d-flex">
                                 <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
@@ -176,7 +183,7 @@ At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solution
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
-                        <div class="h-100">
+                        <div class="h-100" id="works-box">
                             <div class="d-flex">
                                 <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
                                     <i class="fa fa-car text-white"></i>
@@ -191,7 +198,7 @@ At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solution
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
-                        <div class="h-100">
+                        <div class="h-100" id="works-box">
                             <div class="d-flex">
                                 <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
                                     <i class="fa fa-tshirt text-white"></i>
@@ -206,7 +213,7 @@ At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solution
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
-                        <div class="h-100">
+                        <div class="h-100 " id="works-box">
                             <div class="d-flex">
                                 <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
                                     <i class="fa fa-truck text-white"></i>
@@ -270,7 +277,7 @@ At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solution
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
-                                        <img class="position-absolute rounded w-100 h-100" src="img/laundry3.jpg"
+                                        <img class="position-absolute rounded w-100 h-100" src="img/laundryM.jpg"
                                             style="object-fit: cover;" alt="">
                                     </div>
                                 </div>
@@ -286,7 +293,7 @@ At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solution
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
-                                        <img class="position-absolute rounded w-100 h-100" src="img/cleaning.jpg"
+                                        <img class="position-absolute rounded w-100 h-100" src="img/newsneaker.jpg"
                                             style="object-fit: cover;" alt="">
                                     </div>
                                 </div>
@@ -302,7 +309,7 @@ At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solution
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100"> 
-                                        <img class="position-absolute rounded w-100 h-100" src="img/dry cleaning.jpg"
+                                        <img class="position-absolute rounded w-100 h-100" src="img/dryc.jpg"
                                             style="object-fit: cover;" alt="">
                                     </div>
                                 </div>
@@ -318,7 +325,7 @@ At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solution
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
-                                        <img class="position-absolute rounded w-100 h-100" src="img/carpet.jpg"
+                                        <img class="position-absolute rounded w-100 h-100" src="img/newcarpet.jpg"
                                             style="object-fit: cover;" alt="">
                                     </div>
                                 </div>
@@ -350,7 +357,7 @@ At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solution
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
-                                        <img class="position-absolute rounded w-100 h-100" src="img/office.jpg"
+                                        <img class="position-absolute rounded w-100 h-100" src="img/OfficeClean.jpg"
                                             style="object-fit: cover;" alt="">
                                     </div>
                                 </div>
@@ -384,7 +391,7 @@ At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solution
             <div class="owl-carousel project-carousel wow fadeInUp" data-wow-delay="0.3s">
                 <div class="project-item pe-5 pb-5">
                     <div class="project-img mb-3">
-                        <img class="img-fluid rounded" src="img/student.jpeg" alt="">
+                        <img class="img-fluid rounded" src="img/student.jpg" alt="">
                         <a href=""><i class="fa fa-link fa-3x text-primary"></i></a>
                     </div>
                     <div class="project-title">
@@ -393,7 +400,7 @@ At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solution
                 </div>
                 <div class="project-item pe-5 pb-5">
                     <div class="project-img mb-3">
-                        <img class="img-fluid rounded" src="img/family.jpeg" alt="">
+                        <img class="img-fluid rounded" src="img/family.jpg" alt="">
                         <a href=""><i class="fa fa-link fa-3x text-primary"></i></a>
                     </div>
                     <div class="project-title">
@@ -559,6 +566,42 @@ At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solution
 <script src="{{ asset('lib/waypoints/waypoints.min.js') }}"></script>
 <script src="{{ asset('lib/owlcarousel/owl.carousel.min.js') }}"></script>
 <script src="{{ asset('lib/counterup/counterup.min.js') }}"></script>
+
+<script>
+    $(document).ready(function() {
+        $('.nav-item').on('click',function() {
+            // Remove 'active' class from all items
+            $('.nav-item').removeClass('active');
+            //console.log("Removed");
+            // Add 'active' class to the clicked item
+            $(this).addClass('active');
+            //console.log("Added");
+        });
+    });
+</script>
+
+<!--
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var navLinks = document.querySelectorAll('.nav-item');
+
+        navLinks.forEach(function(link) {
+            link.addEventListener('click', function(event) {
+                event.preventDefault();
+
+                // Remove 'active' class from all items
+                navLinks.forEach(function(navLink) {
+                    navLink.classList.remove('active');
+                    console.log("Removed");
+                });
+
+                // Add 'active' class to the clicked item
+                link.classList.add('active');
+                console.log("Added");
+            });
+        });
+    });
+</script>
 
 <!-- Template Javascript -->
 <script src="{{ asset('js/main.js') }}"></script>
