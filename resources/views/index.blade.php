@@ -341,7 +341,7 @@ At Wash Pro, we're dedicated to delivering top-notch laundry & cleaning solution
                             <div class="row g-4">
                                 <div class="col-md-6" style="min-height: 350px;">
                                     <div class="position-relative h-100">
-                                        <img class="position-absolute rounded w-100 h-100" src="img/post constructions.jpg"
+                                        <img class="position-absolute rounded w-100 h-100" src="img/Construction.jpg"
                                             style="object-fit: cover;" alt="">
                                     </div>
                                 </div>

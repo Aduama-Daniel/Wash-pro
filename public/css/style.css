@@ -707,7 +707,8 @@ h6,
 }
 
 .owl-item .pe-5 {
-    padding-right: 4.7rem !important;
+    padding-right: 8rem !important;
+    overflow-x: hidden;
 }
 
 .project-item .project-title {
